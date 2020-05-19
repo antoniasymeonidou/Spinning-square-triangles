@@ -5,7 +5,6 @@ Then i make it spin around.
 
 ## Badges
 
-![dev](https://img.shields.io/david/dev/antoniasymeonidou/Virtual_Pet)
 ![pull requests](https://img.shields.io/bitbucket/pr-raw/antoniasymeonidou/Virtual_Pet)
 ![licence](https://img.shields.io/npm/l/express)
 ![followers](https://img.shields.io/github/followers/antoniasymeonidou?label=Follow&style=social)
