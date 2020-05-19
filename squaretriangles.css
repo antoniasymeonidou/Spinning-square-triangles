@@ -1,0 +1,45 @@
+    .spinnable {
+        animation-name: spin;
+        animation-duration: 5000ms;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    .square_triangle {
+        width: 0;
+        height: 0;
+        position: absolute;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-top: 50px solid transparent;
+        border-bottom: 50px solid transparent;
+        top: 50%;
+        right: 50%;
+        bottom: 50%;
+    }
+    .square_triangle.pink { 
+      border-top: 50px solid rgb(228, 30, 168);
+    }
+
+    .square_triangle.purple {
+      border-left: 50px solid rgb(170, 30, 151);
+    }
+
+    .square_triangle.blue {
+        border-right: 50px solid rgb(18, 208, 241);
+      }
+
+      .square_triangle.green { 
+        border-bottom: 50px solid rgb(10, 245, 21);
+    }
+  
+  @keyframes spin {
+      from {
+          transform:rotate(0deg);
+      }
+      to {
+          transform:rotate(360deg);
+      }
+  }
+
+
+ 
