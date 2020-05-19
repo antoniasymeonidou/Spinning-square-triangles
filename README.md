@@ -1,4 +1,4 @@
-# Spinning Square Triangles :square:
+# Spinning Square Triangles :black_square_button:
 
 Just for fun i created four square triangles and merged them into one big square.
 Then i make it spin around.
@@ -27,7 +27,6 @@ CSS, HTML
 
 ## Built With
 
-* Jest Testing Framework
 * Node.js 
 
 ## Contributing
