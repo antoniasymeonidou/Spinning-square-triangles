@@ -11,7 +11,7 @@ Then i make it spin around.
 
 ## Visuals
 
-![Webpage](https://antoniasymeonidou.github.io/Spinning-square-triangles/squaretriangles.html)
+[Webpage](https://antoniasymeonidou.github.io/Spinning-square-triangles/squaretriangles.html)
 
 
 ## Setup/Installation Requirements
