@@ -6,7 +6,6 @@ Then i make it spin around.
 ## Badges
 
 ![pull requests](https://img.shields.io/bitbucket/pr-raw/antoniasymeonidou/Virtual_Pet)
-![licence](https://img.shields.io/npm/l/express)
 ![followers](https://img.shields.io/github/followers/antoniasymeonidou?label=Follow&style=social)
 
 ## Visuals
@@ -50,7 +49,4 @@ CSS, HTML
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="https://github.com/antoniasymeonidou">Nanou</a>.
+- Copyright 2020 © <a href="https://github.com/antoniasymeonidou">Nanou</a>.
