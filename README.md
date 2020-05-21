@@ -12,6 +12,8 @@ Then i make it spin around.
 
 [![](https://docs.google.com/drawings/d/e/2PACX-1vQL7SiAKUkZCZv3N94yQ-szLPB4Y0N37475VXCzyQ6IOnuNGuiTkmHhw4DiPP94C3HJfiRg8hWJK9Tz/pub?w=300&h=269)](http://www.youtube.com/watch?v=2oaByGlqVco "")
 
+[Click for the Github Page](https://antoniasymeonidou.github.io/Spinning-square-triangles/squaretriangles.html)
+
 
 ## Setup/Installation Requirements
 
